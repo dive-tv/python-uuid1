@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'uuid1',
   packages = ['uuid1'],
-  version = '0.1.0',
+  version = '1.0.0',
   description = 'Library that generates time sortable UUIDs',
   long_description = '',
   author = 'David Fierro',
