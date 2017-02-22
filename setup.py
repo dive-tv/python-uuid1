@@ -7,8 +7,8 @@ setup(
   long_description = '',
   author = 'David Fierro',
   author_email = 'fierro85@gmail.com',
-  url = 'https://github.com/touchvie/python-uuid1',
-  download_url = 'https://github.com/touchvie/python-uuid1/tarball/1.0.1',
+  url = 'https://github.com/dive-tv/python-uuid1',
+  download_url = 'https://github.com/dive-tv/python-uuid1/tarball/1.0.1',
   keywords = ['uuid', 'uuid1', 'TimeUUID'],
   classifiers = [],
   license = 'MIT'
